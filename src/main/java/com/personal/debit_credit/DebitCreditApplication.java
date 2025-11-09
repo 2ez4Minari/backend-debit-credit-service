@@ -1,0 +1,13 @@
+package com.personal.debit_credit;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DebitCreditApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DebitCreditApplication.class, args);
+	}
+
+}
