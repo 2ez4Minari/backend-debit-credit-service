@@ -118,7 +118,7 @@ Same as defined earlier (Accounts + Transactions CRUD).
 ## ✅ **1. Create Transaction (Debit/Credit)**
 
 ```mermaid
-dsequenceDiagram
+sequenceDiagram
     participant C as Client
     participant CT as TransactionController
     participant S as TransactionService
